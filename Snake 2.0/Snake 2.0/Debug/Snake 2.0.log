@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Apple.cpp
+e:\programming\snake\snake 2.0\snake 2.0\apple.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  Controller.cpp
+  Generating Code...
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl getResourcePath(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?getResourcePath@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV12@@Z) already defined in Controller.obj
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol _SDL_main referenced in function _main_utf8
+E:\Programming\Snake\Snake 2.0\Debug\Snake 2.0.exe : fatal error LNK1120: 1 unresolved externals
